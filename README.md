@@ -1,5 +1,5 @@
 # MySQL-Exercise-and-Assignments
-## MySQL daywise exercise and assignments
+# # MySQL daywise exercise and assignments
 MySQL Exercise and Assignments 🐬📚
 Welcome to the MySQL Exercise and Assignments repository! 🎉 This repo is a collection of practical exercises and assignments to help you master the art of database management and SQL queries using MySQL. 🚀
 
